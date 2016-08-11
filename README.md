@@ -18,4 +18,4 @@ _{There are no setup instructions for this webpage.}_
 
 ###Legal
 
-_{Patent Pending!}_s
+_{Patent Pending!}_
